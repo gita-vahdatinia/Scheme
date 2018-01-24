@@ -1,0 +1,9 @@
+Guita Vahdatinia
+gvahdati
+1482836
+Used examples found on Mackeys example founder and
+sources online
+Usage:
+sbi.scm (.sbir file)
+Acts as an interpreter of .sbir files
+No loops used. 
